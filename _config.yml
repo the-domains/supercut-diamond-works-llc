@@ -1,0 +1,14 @@
+layout_spectrum: 0.3288246
+typography_spectrum: 0.3726679
+color:
+  saturation: 0.8027052
+  brandStrength: 0.1723875
+  lightness: 0.8059701
+  brandColors:
+    - '#DEE3E9'
+    - '#353535'
+    - '#ADABAE'
+    - '#6E6C5F'
+    - '#0B0B0D'
+  rhythmicContrast: 0.8039773
+name: 'SuperCut Diamond Works, LLC'
